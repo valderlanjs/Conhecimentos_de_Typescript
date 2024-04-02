@@ -1,0 +1,15 @@
+{
+  "name": "ts_exercico_interface",
+  "version": "1.0.0",
+  "description": "Criando Interfaces.",
+  "main": "index.js",
+  "scripts": {
+    "tsc-watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}

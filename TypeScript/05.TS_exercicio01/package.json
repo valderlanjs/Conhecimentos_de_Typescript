@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
+  "name": "ts_exercicio01",
+  "description": "Exercício declarando tipos no TypeScript.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tsc-watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
