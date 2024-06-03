@@ -13,7 +13,7 @@
     <li>Mais produtividade e menos bugs</li>
 </ul>
 
-<p>Neste ebook, vamos aprender:</p>
+<p>Assuntos abordados:</p>
 
 <ul>
     <li>O que é o TypeScript e suas principais características</li>
@@ -137,15 +137,6 @@
 
 <p>O TypeScript tem suporte limitado para recursos mais avançados de programação funcional como currying, composição, functors, monads etc. Para esses casos, é comum utilizar bibliotecas externas como RamdaJS.</p>
 
-<h2>Conclusão</h2>
-
-<p>Neste ebook, aprendemos o que é o TypeScript, suas principais características, benefícios, casos de uso e muito mais.</p>
-
-<p>Vimos na prática como configurar o TS em um projeto, trabalhar com tipagem estática, criar nossos próprios tipos, classes e interfaces.</p>
-
-<p>Também tivemos uma introdução à programação orientada a objetos e funcional com TypeScript.</p>
-
-<p>Espero que você tenha gostado deste material introdutório. O TypeScript com certeza irá turbinar seus projetos JavaScript, então vale a pena aprender e começar a utilizar em seus projetos.</p>
 
 
 
