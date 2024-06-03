@@ -99,6 +99,3 @@ A relação dos dois pode ser vista como semelhante a do CSS e o SCSS.
     * A sintaxe básica para especificar um array é utilizando o tipo dos seus elementos. Por exemplo, string[]  ou namber[]. (let example:number[] = [1,2,3,4], let exapmle:Array<number>=[1,2,3,4]). 
 
     * Idealmente, usamos arrays como sendo uam lista onde todos os elementos têm o memso tipo, mas esses comportamento também pode ser evitado.
-
-
-**** INFERENCIA DE TIPO:
